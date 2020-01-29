@@ -14,7 +14,7 @@ body{
 }
 
 #aboutmeheader{
-    padding:20px 0;
+    padding:20px ;
     margin:0;
     margin-bottom: 20px;
     font-size: 28px;
@@ -23,15 +23,26 @@ body{
 
 }
 
+#topnav {
+    float: left;
+    position: absolute;
+    
+    
+
+}
+
 .topnav {
     overflow: hidden;
     background-color: #efeee7;
-    float:right
+    float:right;
+    padding: 20px;
   }
 
 #main-bio{
     width: 70%;
     float: left;
+    padding:30px;
+
 }
 
 .container{
